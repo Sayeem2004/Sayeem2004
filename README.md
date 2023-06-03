@@ -1,4 +1,2 @@
-## Hi there, I am Sayeem. Welcome to my Github. 
-## ![](https://komarev.com/ghpvc/?username=Sayeem2004&color=brightgreen&style=plastic)
-## ![Sayeem2004's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sayeem2004&count_private=true&show_icons=true&theme=dark)
-## ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayeem2004&layout=compact&theme=dark&count_private=true&langs_count=10)
+## Hi there, I am Sayeem. Welcome to my Github. <img align='right' height='24' src='https://komarev.com/ghpvc/?username=Sayeem2004&color=brightgreen&style=plastic'>
+<img height='200' src='https://github-readme-stats.vercel.app/api?username=Sayeem2004&count_private=true&show_icons=true&theme=dark'> <img height='200' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Sayeem2004&layout=compact&theme=dark&count_private=true&langs_count=8'>
